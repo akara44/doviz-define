@@ -4,7 +4,7 @@
 - It is not used for commercial purposes.<br> <br> <br>
 # Calling data using the echo command:
 With the php codes given below, we can call the data we read from the JSON source with the echo command.
-- Dolar Alış Fiyatı: <b>DOLARALİS</b> sabiti için <b>echo</b> kullanımı:
+- Dollar Buying Price: Using echo for the constant DOLARALIS:
 ```php
 <?php echo DOLARALİS; ?>
 ```
