@@ -1,6 +1,6 @@
 # PHP DÖVİZ
 # TRUNCGİL AKADEMİ DÖVİZ APİLERİ
-- Güncel Döviz Kuru verilerini internette bulmamız çok basittir. Peki bu bilgileri doğru ve etkili olarak nasıl kullanabiliriz sorusunu sizlere açıklamak ve uygulamalı olarak göstermek için basit bir şekilde json verilerini nasıl define olarak kaydedebileceğimizi ve bu verileri nasıl kullanabileceğimizi gösterdim.
+- It is very simple to find current exchange rate data on the internet. Well, in order to explain to you the question of how we can use this information correctly and effectively, and to show you practically, I have shown in a simple way how we can save json data as a define and how we can use this data.
 - Ticari amaç için kullanılmaz.<br> <br> <br>
 # echo Komutu Kullanarak veri çağırma işlemi:
 Aşağıda verilen php kodları ile JSON kaynağından okuduğumuz verileri <b>echo</b> komutu ile çağırabiliriz.Ben çekeceğim verileri define olarak çektim siz değişkenlerede atayabilirsiniz.
