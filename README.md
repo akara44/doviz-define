@@ -24,7 +24,7 @@ With the php codes given below, we can call the data we read from the JSON sourc
 ```php
 <?php echo "$STRALİS"; ?>
 ```
--Sterlin Satış Fiyatı: <b>$STRSATİS</b> sabiti için <b>echo</b> kullanımı:
+- Sterlin Satış Fiyatı: <b>$STRSATİS</b> sabiti için <b>echo</b> kullanımı:
 ```php
 <?php echo "$STRSATİS"; ?>
 ```
