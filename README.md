@@ -28,5 +28,5 @@ With the php codes given below, we can call the data we read from the JSON sourc
 ```php
 <?php echo "$STRSATİS"; ?>
 ```
-- Diğer kurlar içinde aynı işlemi uygulayabilirsiniz.
-- Umarım kolay ve analışılır bir anlatım olmuştur. İhtiyacınızı karşılamasını dilerim.
+- You can do the same for other currencies.
+- I hope it was an easy and understandable explanation. I hope it will meet your needs.
